@@ -1,0 +1,232 @@
+/* CUSTOM FONT */
+/* POPPINS */
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 100;
+  src: local("Poppins Thin Italic"), local("Poppins-ThinItalic"), url(../font/poppins/v5/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 200;
+  src: local("Poppins ExtraLight Italic"), local("Poppins-ExtraLightItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+  src: local("Poppins Light Italic"), local("Poppins-LightItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Poppins Italic"), local("Poppins-Italic"), url(../font/poppins/v5/pxiGyp8kv8JHgFVrJJLucHtF.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  src: local("Poppins Medium Italic"), local("Poppins-MediumItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 600;
+  src: local("Poppins SemiBold Italic"), local("Poppins-SemiBoldItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 700;
+  src: local("Poppins Bold Italic"), local("Poppins-BoldItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 800;
+  src: local("Poppins ExtraBold Italic"), local("Poppins-ExtraBoldItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 900;
+  src: local("Poppins Black Italic"), local("Poppins-BlackItalic"), url(../font/poppins/v5/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Poppins Thin"), local("Poppins-Thin"), url(../font/poppins/v5/pxiGyp8kv8JHgFVrLPTucHtF.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Poppins ExtraLight"), local("Poppins-ExtraLight"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Poppins Light"), local("Poppins-Light"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Poppins Regular"), local("Poppins-Regular"), url(../font/poppins/v5/pxiEyp8kv8JHgFVrJJfedw.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Poppins Medium"), local("Poppins-Medium"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Poppins SemiBold"), local("Poppins-SemiBold"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Poppins Bold"), local("Poppins-Bold"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  src: local("Poppins ExtraBold"), local("Poppins-ExtraBold"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Poppins Black"), local("Poppins-Black"), url(../font/poppins/v5/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf) format("truetype");
+}
+/* NUNITO SANS */
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 100;
+  src: local("NunitoSans Thin Italic"), local("NunitoSans-ThinItalic"), url(../font/nunitosans/NunitoSans-ThinItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 200;
+  src: local("NunitoSans ExtraLight Italic"), local("NunitoSans-ExtraLightItalic"), url(../font/nunitosans/NunitoSans-ExtraLightItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 300;
+  src: local("NunitoSans Light Italic"), local("NunitoSans-LightItalic"), url(../font/nunitosans/NunitoSans-LightItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 400;
+  src: local("NunitoSans Italic"), local("NunitoSans-Italic"), url(../font/nunitosans/NunitoSans-Italic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 500;
+  src: local("NunitoSans Medium Italic"), local("NunitoSans-MediumItalic"), url(../font/nunitosans/NunitoSans-MediumItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 600;
+  src: local("NunitoSans SemiBold Italic"), local("NunitoSans-SemiBoldItalic"), url(../font/nunitosans/NunitoSans-SemiBoldItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 700;
+  src: local("NunitoSans Bold Italic"), local("NunitoSans-BoldItalic"), url(../font/nunitosans/NunitoSans-BoldItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 800;
+  src: local("NunitoSans ExtraBold Italic"), local("NunitoSans-ExtraBoldItalic"), url(../font/nunitosans/NunitoSans-ExtraBoldItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: italic;
+  font-weight: 900;
+  src: local("NunitoSans Black Italic"), local("NunitoSans-BlackItalic"), url(../font/nunitosans/NunitoSans-BlackItalic.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 100;
+  src: local("NunitoSans Thin"), local("NunitoSans-Thin"), url(../font/nunitosans/NunitoSans-Thin.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 200;
+  src: local("NunitoSans ExtraLight"), local("NunitoSans-ExtraLight"), url(../font/nunitosans/NunitoSans-ExtraLight.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 300;
+  src: local("NunitoSans Light"), local("NunitoSans-Light"), url(../font/nunitosans/NunitoSans-Light.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("NunitoSans Regular"), local("NunitoSans-Regular"), url(../font/nunitosans/NunitoSans-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 500;
+  src: local("NunitoSans Medium"), local("NunitoSans-Medium"), url(../font/nunitosans/NunitoSans-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 600;
+  src: local("NunitoSans SemiBold"), local("NunitoSans-SemiBold"), url(../font/nunitosans/NunitoSans-SemiBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 700;
+  src: local("NunitoSans Bold"), local("NunitoSans-Bold"), url(../font/nunitosans/NunitoSans-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 800;
+  src: local("NunitoSans ExtraBold"), local("NunitoSans-ExtraBold"), url(../font/nunitosans/NunitoSans-ExtraBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "NunitoSans";
+  font-style: normal;
+  font-weight: 900;
+  src: local("NunitoSans Black"), local("NunitoSans-Black"), url(../font/nunitosans/NunitoSans-Black.ttf) format("truetype");
+}
+/* MERIENDA */
+@font-face {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Merienda Regular"), local("Merienda-Regular"), url(../font/merienda/Merienda-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Merienda Bold"), local("Merienda-Bold"), url(../font/merienda/Merienda-Bold.ttf) format("truetype");
+}
